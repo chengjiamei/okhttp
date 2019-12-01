@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/chengjiamei/okhttp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/square/okhttp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/AndroidDevelop" />
