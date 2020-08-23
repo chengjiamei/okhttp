@@ -3,9 +3,10 @@
     <option name="addedPositive">
       <list>
         <option value="2020-08-23 11:09:24.535 25998-25998/com.example.android.bluetoothchat D/ViewRootImpl[MainActivity]: pokeDrawLockedIfNeeded displayState=4" />
+        <option value="D/yuan: onVisibilityChanged-" />
         <option value="ViewRootImpl[MainActivity]: onDisplayChange" />
         <option value="ViewRootImpl[MainActivity]: pokeDrawLockedIfNeeded" />
-        <option value="D/yuan: onVisibilityChanged-" />
+        <option value="ViewRootImpl[DeviceListActivity]:" />
       </list>
     </option>
   </component>
