@@ -58,6 +58,10 @@
           <option name="url" value="http://e.coding.net" />
           <option name="userName" value="jiamei6248@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/MarcosCheng/flutter_audio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/AndroidDevelop" />
