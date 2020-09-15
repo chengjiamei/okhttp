@@ -74,8 +74,12 @@
           <option name="url" value="https://e.coding.net/kdk/flutter_oss_upload/flutter_oss_upload.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/MarcosCheng/flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/AndroidDevelop" />
+    <option name="cloneParentDir" value="$USER_HOME$/FlutterSDK" />
   </component>
 </application>
